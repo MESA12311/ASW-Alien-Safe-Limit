@@ -22,7 +22,7 @@
 
 #define ENTITY_SAFE_LIMIT 1900
 
-#define MAX_ALIENS 400
+#define MAX_ALIENS 1000
 
 static int g_iAlienRef[MAX_ALIENS];
 static float g_fAlienCreationTime[MAX_ALIENS];
